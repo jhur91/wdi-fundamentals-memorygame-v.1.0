@@ -1,21 +1,44 @@
+header {
+	background-color: #F15B31;
+	color: #FFFFFF;
+	padding: 30px 20px;
+}
+
 body {
 	text-align: center;
+	margin: 0;
 }
+
+
+
 h1 {
 	font-family: raleway;
 	color: #0D2c40;
 	letter-spacing: 1px;
 	font-weight: 400;
 	font-size: 45px;
+	margin: 0;
+}
+
+nav {
+	background-color: #00A6B3;
+	color: #FFFFFF;
+	padding: 20px 0;
 }
 
 a { 
 font-family: raleway;
-color: #ff15b31;
+color: #FFFFFF;
 letter-spacing: 1px;
 font-weight: 600;
 font-size: 18px;
- }
+margin: 0px 20px;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto;
+}
 
  h2 {
  	font-family: raleway;
@@ -29,6 +52,10 @@ p{
 	font-family: "droid serif";
 	line-height: 26px;
 	font-size: 18px;
+}
+
+img {
+	margin: 40px 8px;
 }
 
 h1, link {
